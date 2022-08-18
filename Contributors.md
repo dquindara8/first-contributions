@@ -10,6 +10,7 @@
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg)
   [Shubham Yadav]
+  [Quindara Trim-Corbin](https://github.com/dquindara8)
 - [Mohamed El omary](https://github.com/celomary)
 - [Richard Panzera] (https://github.com/richardpanzera)
 - [Robin Kempen] (https://github.com/Robinho1997)
